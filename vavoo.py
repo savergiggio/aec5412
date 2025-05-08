@@ -4,7 +4,7 @@ import re
 import os
 
 LINKMFP = "https://mam.lokiale.duckdns.org"
-PASSWORD = "Digimon96.."
+PASSWORD = "Digimon9696"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
