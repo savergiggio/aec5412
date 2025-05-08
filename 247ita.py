@@ -7,7 +7,7 @@ import time
 
 # Costanti
 
-LINKMFP = "https://mam.lokiale.duckdns.org/"
+LINKMFP = "https://mam.lokiale.duckdns.org"
 PASSWORD = "Digimon96.."
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
