@@ -14,7 +14,7 @@ from urllib.parse import quote_plus  # Add this import
 
 # Constants
 LINKMFP = "https://mam.lokiale.duckdns.org"
-PASSWORD = "Digimon96.."
+PASSWORD = "Digimon9696"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 
